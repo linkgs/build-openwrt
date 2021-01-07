@@ -10,3 +10,4 @@
 #rm -rf ./package/lean/luci-app-autopoweroff
 #rm -rf ./package/luci-app-autopoweroff
 #git clone https://github.com/sirpdboy/luci-app-autopoweroff package/luci-app-autopoweroff
+git clone https://github.com/281677160/openwrt-package/luci-app-autopoweroff package/luci-app-autopoweroff
